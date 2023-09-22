@@ -1,0 +1,13 @@
+{
+    "errores": [
+        {
+            "No": 1,
+            "descripcion": {
+                "Lexema": "Error en operaci\u00f3n 3: Resultado no v\u00e1lido",
+                "tipo": "error lexico",
+                "columna": 0,
+                "fila": 0
+            }
+        }
+    ]
+}
